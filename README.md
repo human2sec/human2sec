@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./human2secc-banner.png" alt="human@Sec Cybersecurity Banner" width="100%">
+  <img src="./human2sec-banner.png" alt="human@Sec Cybersecurity Banner" width="100%">
 </p>
 
 

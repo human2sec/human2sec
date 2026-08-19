@@ -7,4 +7,4 @@
 
 ### Think. Hack. Secure.
 
-Networking | Red team & operation security | offSec tools development | Malware development | DFIR | Reverse Engineering
+Networking & Network Security | Red team & Operation Security | Offensive Security Tools Development | Malware Development | Digital Forensics & Incidence Response | Reverse Engineering
